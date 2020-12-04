@@ -14,7 +14,7 @@ import BlogThree from "../components/BlogThree";
 
 const HomePageTwo = () => {
     return (
-        <Layout pageTitle="Kipso | Home 2">
+        <Layout pageTitle="Siminchikkunarayku">
             <NavTwo />
             <SliderTwo />
             <CourseCatTwo />
