@@ -166,7 +166,6 @@ const CourseCatTwo = () => {
                                 <h3 className="course-category-two__title"><a href="#">Simidic</a></h3>
                             </div>
                         </div>
-                        
                         </Swiper>
                     </div>
                 </div>
