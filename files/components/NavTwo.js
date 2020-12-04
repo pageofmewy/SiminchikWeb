@@ -61,28 +61,10 @@ class NavTwo extends Component {
                         <div className="main-navigation">
                             <ul className=" navigation-box">
                                 <li className="current">
-                                    <Link href="/"><a>Home</a></Link>
-                                    <ul className="sub-menu">
-                                        <li><Link href="/"><a>Home 01</a></Link></li>
-                                        <li><Link href="/index-2"><a>Home 02</a></Link></li>
-                                        <li><Link href="/index-3"><a>Home 03</a></Link></li>
-                                        <li><a href="#">Header Versions</a>
-                                            <ul className="sub-menu">
-                                                <li><Link href="/"><a>Header 01</a></Link></li>
-                                                <li><Link href="/index-2"><a>Header 02</a></Link></li>
-                                                <li><Link href="/index-3"><a>Header 03</a></Link></li>
-                                            </ul>
-                                        </li>
-                                    </ul>
+                                    <Link href="/index-2"><a>Home</a></Link>
                                 </li>
                                 <li>
-                                    <a href="#">Pages</a>
-                                    <ul className="sub-menu">
-                                        <li><Link href="/about"><a>About Page</a></Link></li>
-                                        <li><Link href="/gallery"><a>Gallery</a></Link></li>
-                                        <li><Link href="/pricing"><a>Pricing Plans</a></Link></li>
-                                        <li><Link href="/faq"><a>FAQ'S</a></Link></li>
-                                    </ul>
+                                    <a href="D:/Docs/webSiminchik/SiminchikWeb/files/pages/about">Nosotros</a>
                                 </li>
                                 <li>
                                     <a href="courses.html">Courses</a>
@@ -107,7 +89,7 @@ class NavTwo extends Component {
                                     </ul>
                                 </li>
                                 <li>
-                                    <Link href="/contact"><a>Contact</a></Link>
+                                    <Link href="/contact"><a>Contáctanos</a></Link>
                                 </li>
                             </ul>
                         </div>
