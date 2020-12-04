@@ -27,11 +27,10 @@ const SliderTwo = () => {
                         <div className="container">
                             <div className="row no-gutters">
                                 <div className="col-xl-12">
-                                    <p className="banner-two__tag-line">High quality
-                                        courses</p>
-                                    <h3 className="banner-two__title banner-two__light-color">Read & learn <br />
-                                        in an easy way</h3>
-                                    <a href="#" className="thm-btn banner-two__btn">Learn More</a>
+                                    <p className="banner-two__tag-line">¿Quienes somos?</p>
+                                    <h3 className="banner-two__title banner-two__light-color">Siminchikkunarayku</h3>
+
+                                    <a href="#" className="thm-btn banner-two__btn">Saber más</a>
                                 </div>
                             </div>
                         </div>
