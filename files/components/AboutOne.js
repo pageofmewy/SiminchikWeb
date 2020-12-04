@@ -1,7 +1,8 @@
 import React, {Component} from 'react';
 import CountUp from 'react-countup';
 import VisibilitySensor from 'react-visibility-sensor';
-
+//Crear otro donde irá la mision, vision de simin porque esto se repite en home
+//Al inicio en vez de las 3 imagenes , 1 sola que sea buena
 class AboutOne extends Component {
     constructor(){
         super()
