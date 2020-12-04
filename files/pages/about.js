@@ -12,9 +12,9 @@ import CallToActionOne from "../components/CallToActionOne";
 
 const AboutPage = () => {
     return (
-        <Layout pageTitle="Kipso | About">
+        <Layout pageTitle="Nosotros">
             <NavOne />
-            <PageHeader title="About" />
+            <PageHeader title="Nosotros" />
             <AboutOne />
             <TeamOne />
             <VideoOne />
